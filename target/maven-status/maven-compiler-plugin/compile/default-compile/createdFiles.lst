@@ -1,0 +1,5 @@
+produto\Produto.class
+cliente\Cliente.class
+cliente\CadastroCliente.class
+pedido\CadastroPedido.class
+produto\CadastroProduto.class
